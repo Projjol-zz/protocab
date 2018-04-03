@@ -9,6 +9,12 @@
     - some form of a master switch? i.e if user does not confirm and never uses the service again how is payment processed?
         - x number of retries post which network defaults payment for driver? too much power to driver ? can it incentivize bad behaviour on their part?
 
+## Features
+    
+    1. Privacy First
+    2. Seamless payments
+
+
 ## identity management
 
 ## search
